@@ -1,4 +1,4 @@
 User-IP-Geolocation
 ===================
 
-Guilmo.com How to get user external IP and Geolocation data in iOS
+The post explaining how to use this code can be found at: http://www.guilmo.com/how-to-get-user-external-ip-and-geolocation-data-in-ios/
